@@ -18,7 +18,7 @@ public class MainHW {
         game3.setTitle("Genshin_Impact");
         game3.setGenre("расслабиться");
         game3.setRating(10.0);
-        game3.setPrice(2000);
+        game3.setPrice(0);
         System.out.println(game3.getDescription());
      }
 }
