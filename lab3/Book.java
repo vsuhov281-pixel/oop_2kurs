@@ -15,6 +15,6 @@ package lab3;
 
     @Override 
     public String read(){
-        return super.read() + " количество страниц: " + pagesCount  + "- это книга";           
+        return super.read() + " количество страниц: " + pagesCount  + " - это книга";           
     }
 }
