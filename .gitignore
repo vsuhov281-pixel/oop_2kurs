@@ -1,0 +1,13 @@
+# Игнорировать папку сборки Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Игнорировать логи
+logs/
+*.log
+
+# Игнорировать настройки IDE
+.idea/
+*.iml
+.vscode/
