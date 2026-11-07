@@ -1,0 +1,9 @@
+<Hotel>
+  <id>1</id>
+  <name>Гранд Отель</name>
+  <city>Москва</city>
+  <stars>5</stars>
+  <roomsCount>120</roomsCount>
+  <rating>9.2</rating>
+  <establishedDate>2010-05-15</establishedDate>
+</Hotel>

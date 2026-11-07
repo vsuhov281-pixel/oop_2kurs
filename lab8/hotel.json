@@ -1,0 +1,9 @@
+{
+  "id" : 1,
+  "name" : "Гранд Отель",
+  "city" : "Москва",
+  "stars" : 5,
+  "roomsCount" : 120,
+  "rating" : 9.2,
+  "establishedDate" : "2010-05-15"
+}
